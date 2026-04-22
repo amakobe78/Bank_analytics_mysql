@@ -1,0 +1,256 @@
+account_number,account_name,customer_id,branch_ID,account_type,account_status,balance,open_date
+ACC0001,Fix Account,34,1,fixed deposit accounts,active,294837.61,2015-03-09
+ACC0002,Sal Account,14,5,Salary Account,suspended,57711.0,2016-08-15
+ACC0003,Sav Account,200,12,savings accounts,inactive,252415.51,2015-12-26
+ACC0004,Fix Account,169,17,fixed deposit accounts,inactive,322027.0,2015-01-16
+ACC0005,Sav Account,103,14,savings accounts,inactive,356488.26,2022-02-03
+ACC0006,Cur Account,83,20,current accounts,active,63969.6,2023-12-11
+ACC0007,Fix Account,98,20,fixed deposit accounts,inactive,253269.99,2021-02-26
+ACC0008,Cur Account,180,4,current accounts,inactive,226325.9,2018-07-11
+ACC0009,Sal Account,117,13,Salary Account,active,156961.63,2020-11-09
+ACC0010,Sal Account,96,5,Salary Account,active,46521.17,2016-02-14
+ACC0011,Cur Account,25,12,current accounts,suspended,30930.51,2023-09-11
+ACC0012,Sal Account,172,4,Salary Account,active,436930.08,2021-12-02
+ACC0013,Fix Account,74,20,fixed deposit accounts,active,52696.68,2023-04-05
+ACC0014,Cur Account,169,16,current accounts,active,175706.88,2023-06-04
+ACC0015,Cur Account,196,9,current accounts,inactive,422732.43,2023-01-20
+ACC0016,Sav Account,169,9,savings accounts,active,137361.92,2019-06-12
+ACC0017,Cur Account,2,6,current accounts,suspended,329014.97,2016-03-24
+ACC0018,Sav Account,163,1,savings accounts,suspended,108351.31,2021-08-11
+ACC0019,Fix Account,41,12,fixed deposit accounts,active,388640.97,2016-01-05
+ACC0020,Sav Account,41,20,savings accounts,active,136779.32,2021-08-20
+ACC0021,Fix Account,114,14,fixed deposit accounts,active,377716.63,2016-06-14
+ACC0022,Sal Account,29,10,Salary Account,suspended,333899.15,2015-04-13
+ACC0023,Sav Account,154,2,savings accounts,active,151408.26,2018-03-25
+ACC0024,Fix Account,66,10,fixed deposit accounts,active,4857.22,2021-03-05
+ACC0025,Cur Account,98,18,current accounts,suspended,279803.06,2020-02-13
+ACC0026,Sal Account,190,2,Salary Account,active,230417.37,2016-06-19
+ACC0027,Sal Account,110,19,Salary Account,inactive,145468.09,2021-01-11
+ACC0028,Sal Account,44,20,Salary Account,active,44976.81,2016-04-14
+ACC0029,Sav Account,151,13,savings accounts,inactive,435391.68,2020-04-11
+ACC0030,Sav Account,200,6,savings accounts,suspended,316979.11,2023-09-07
+ACC0031,Fix Account,199,12,fixed deposit accounts,active,118898.16,2017-05-07
+ACC0032,Cur Account,45,20,current accounts,active,89395.92,2022-08-25
+ACC0033,Sal Account,145,19,Salary Account,suspended,321852.92,2020-11-11
+ACC0034,Sav Account,39,15,savings accounts,inactive,221661.82,2019-05-19
+ACC0035,Sav Account,15,12,savings accounts,active,231409.5,2015-01-12
+ACC0036,Sav Account,74,3,savings accounts,suspended,297445.83,2021-08-19
+ACC0037,Sal Account,142,2,Salary Account,suspended,326266.89,2020-10-16
+ACC0038,Sav Account,129,5,savings accounts,inactive,52647.44,2020-12-03
+ACC0039,Sav Account,130,6,savings accounts,active,354103.23,2022-09-17
+ACC0040,Fix Account,157,6,fixed deposit accounts,active,459050.46,2021-07-25
+ACC0041,Sav Account,87,20,savings accounts,active,33890.02,2016-09-22
+ACC0042,Fix Account,99,10,fixed deposit accounts,suspended,436766.55,2020-02-19
+ACC0043,Fix Account,170,5,fixed deposit accounts,active,483880.56,2021-03-20
+ACC0044,Fix Account,182,3,fixed deposit accounts,suspended,188962.97,2020-03-22
+ACC0045,Sav Account,180,17,savings accounts,inactive,-15000.0,2015-06-10
+ACC0046,Fix Account,47,7,fixed deposit accounts,inactive,96810.61,2017-03-03
+ACC0047,Sav Account,76,4,savings accounts,active,438319.99,2017-10-13
+ACC0048,Cur Account,40,6,current accounts,suspended,404712.82,2017-12-15
+ACC0049,Fix Account,12,14,fixed deposit accounts,active,484824.71,2019-12-26
+ACC0050,Cur Account,115,8,current accounts,active,482832.72,2022-04-12
+ACC0051,Sal Account,174,19,Salary Account,inactive,384949.84,2021-09-17
+ACC0052,Cur Account,108,6,current accounts,suspended,70060.87,2019-01-21
+ACC0053,Sav Account,124,12,savings accounts,suspended,425731.86,2019-02-25
+ACC0054,Sal Account,42,9,Salary Account,suspended,74526.98,2021-02-08
+ACC0055,Sav Account,116,12,savings accounts,inactive,27575.19,2023-06-08
+ACC0056,Fix Account,99,3,fixed deposit accounts,active,15065.59,2016-12-21
+ACC0057,Cur Account,86,5,current accounts,active,144152.82,2022-12-27
+ACC0058,Sal Account,36,16,Salary Account,suspended,3620.35,2016-01-09
+ACC0059,Sal Account,56,5,Salary Account,active,388310.14,2018-05-04
+ACC0060,Sal Account,13,8,Salary Account,suspended,229099.69,2016-08-20
+ACC0061,Cur Account,138,1,current accounts,active,146344.72,2015-10-12
+ACC0062,Sal Account,62,19,Salary Account,active,332521.28,2016-09-12
+ACC0063,Sav Account,18,17,savings accounts,inactive,436792.39,2015-11-13
+ACC0064,Sav Account,96,9,savings accounts,active,394471.49,2020-04-24
+ACC0065,Fix Account,169,4,fixed deposit accounts,active,23123.51,2023-06-27
+ACC0066,Sal Account,165,6,Salary Account,inactive,316236.19,2017-02-23
+ACC0067,Sav Account,199,15,savings accounts,active,101593.91,2018-01-11
+ACC0068,Sal Account,80,17,Salary Account,suspended,237226.48,2015-11-07
+ACC0069,Sav Account,74,12,savings accounts,active,137335.09,2020-07-13
+ACC0070,Sal Account,191,15,Salary Account,active,486888.07,2022-12-16
+ACC0071,Fix Account,95,17,fixed deposit accounts,active,363813.58,2016-07-20
+ACC0072,Fix Account,47,18,fixed deposit accounts,active,52196.36,2020-11-10
+ACC0073,Sal Account,79,15,Salary Account,active,345192.64,2020-08-02
+ACC0074,Sal Account,187,12,Salary Account,active,320095.19,2015-02-22
+ACC0075,Fix Account,164,13,fixed deposit accounts,suspended,400746.89,2017-01-05
+ACC0076,Sav Account,156,15,savings accounts,active,34549.45,2020-06-13
+ACC0077,Cur Account,146,2,current accounts,inactive,474462.94,2020-08-25
+ACC0078,Cur Account,20,19,current accounts,suspended,184108.02,2020-11-09
+ACC0079,Sav Account,64,4,savings accounts,active,250022.94,2021-09-04
+ACC0080,Sal Account,68,9,Salary Account,active,498186.19,2019-12-16
+ACC0081,Cur Account,52,4,current accounts,active,226569.3,2022-02-26
+ACC0082,Fix Account,175,11,fixed deposit accounts,active,275448.58,2019-05-28
+ACC0083,Fix Account,41,6,fixed deposit accounts,suspended,112896.57,2018-03-08
+ACC0084,Fix Account,127,1,fixed deposit accounts,suspended,286566.43,2022-09-05
+ACC0085,Sav Account,157,3,savings accounts,active,199681.83,2022-09-14
+ACC0086,Sav Account,197,14,savings accounts,active,486217.49,2016-08-15
+ACC0087,Fix Account,175,17,fixed deposit accounts,active,439102.12,2023-11-19
+ACC0088,Sal Account,47,5,Salary Account,suspended,455445.42,2015-02-17
+ACC0089,Cur Account,40,10,current accounts,active,162007.71,2018-06-17
+ACC0090,Fix Account,73,3,fixed deposit accounts,active,999999999.99,2023-05-05
+ACC0091,Sav Account,161,10,savings accounts,suspended,320852.73,2017-03-22
+ACC0092,Fix Account,160,20,fixed deposit accounts,suspended,21555.96,2015-02-02
+ACC0093,Fix Account,165,19,fixed deposit accounts,active,383712.54,2021-10-21
+ACC0094,Fix Account,8,16,fixed deposit accounts,active,241989.46,2021-05-15
+ACC0095,Cur Account,19,2,current accounts,inactive,208395.25,2022-04-11
+ACC0096,Fix Account,156,5,fixed deposit accounts,active,367365.68,2020-07-05
+ACC0097,Sav Account,195,12,savings accounts,active,121627.19,2016-05-15
+ACC0098,Sav Account,64,5,savings accounts,active,145815.79,2021-10-14
+ACC0099,Fix Account,64,6,fixed deposit accounts,suspended,360843.09,2018-03-16
+ACC0100,Sal Account,132,15,Salary Account,active,249187.77,2016-07-17
+ACC0101,Cur Account,118,8,current accounts,suspended,177094.65,2015-05-16
+ACC0102,Fix Account,153,16,fixed deposit accounts,suspended,5080.53,2016-07-05
+ACC0103,Sal Account,68,12,Salary Account,active,23575.95,2015-10-18
+ACC0104,Fix Account,50,12,fixed deposit accounts,active,193788.06,2022-09-09
+ACC0105,Sav Account,160,20,savings accounts,active,487566.32,2021-06-26
+ACC0106,Fix Account,87,18,fixed deposit accounts,active,100329.88,2023-07-17
+ACC0107,Sav Account,11,2,savings accounts,active,357082.33,2022-09-15
+ACC0108,Cur Account,39,20,current accounts,active,465753.0,2020-03-13
+ACC0109,Fix Account,158,10,fixed deposit accounts,suspended,414316.4,2023-08-23
+ACC0110,Sal Account,145,10,Salary Account,active,184810.55,2016-07-19
+ACC0111,Sal Account,79,1,Salary Account,active,483568.28,2018-12-02
+ACC0112,Cur Account,150,16,current accounts,suspended,314883.6,2021-03-27
+ACC0113,Sav Account,175,8,savings accounts,suspended,474154.38,2016-04-01
+ACC0114,Sal Account,113,11,Salary Account,active,207067.09,2018-07-17
+ACC0115,Sal Account,199,20,Salary Account,active,353181.84,2023-04-18
+ACC0116,Sal Account,84,16,Salary Account,active,478386.06,2022-09-11
+ACC0117,Fix Account,140,12,fixed deposit accounts,suspended,242605.87,2018-05-18
+ACC0118,Fix Account,77,8,fixed deposit accounts,active,352745.57,2022-06-16
+ACC0119,Fix Account,90,18,fixed deposit accounts,active,61815.18,2023-07-13
+ACC0120,Fix Account,89,5,fixed deposit accounts,active,144527.54,2016-06-15
+ACC0121,Sal Account,168,9,Salary Account,active,101831.94,2023-05-18
+ACC0122,Cur Account,179,9,current accounts,active,308222.84,2018-04-02
+ACC0123,Cur Account,172,17,current accounts,active,27193.06,2021-06-23
+ACC0124,Cur Account,121,4,current accounts,active,482294.86,2017-07-21
+ACC0125,Cur Account,122,16,current accounts,active,161262.68,2015-02-21
+ACC0126,Sav Account,147,8,savings accounts,active,209524.61,2017-01-27
+ACC0127,Cur Account,102,16,current accounts,active,438494.84,2015-05-19
+ACC0128,Fix Account,155,4,fixed deposit accounts,active,227720.19,2023-09-16
+ACC0129,Sal Account,35,17,Salary Account,active,97212.89,2016-06-06
+ACC0130,Fix Account,188,15,fixed deposit accounts,ACTIVE,8028.01,2020-05-19
+ACC0131,Cur Account,173,7,current accounts,suspended,428217.11,2021-07-17
+ACC0132,Sal Account,84,3,Salary Account,active,93205.82,2017-08-11
+ACC0133,Fix Account,64,1,fixed deposit accounts,inactive,118525.11,2019-06-10
+ACC0134,Sav Account,150,19,savings accounts,active,327188.0,2018-01-22
+ACC0135,Fix Account,31,15,fixed deposit accounts,active,203302.89,2023-12-25
+ACC0136,Fix Account,80,4,fixed deposit accounts,active,307698.1,2018-03-16
+ACC0137,Fix Account,40,15,fixed deposit accounts,inactive,351268.42,2022-09-26
+ACC0138,Cur Account,171,7,current accounts,suspended,436694.39,2016-09-15
+ACC0139,Sav Account,136,12,savings accounts,suspended,56992.19,2023-09-07
+ACC0140,Cur Account,147,18,current accounts,active,164730.7,2023-08-04
+ACC0141,Sal Account,175,7,Salary Account,active,449545.79,2022-01-15
+ACC0142,Sal Account,34,17,Salary Account,inactive,282391.68,2023-08-22
+ACC0143,Sal Account,79,1,Salary Account,active,408410.16,2018-10-03
+ACC0144,Fix Account,12,14,fixed deposit accounts,active,271040.59,2015-02-16
+ACC0145,Sal Account,9,10,Salary Account,active,384717.06,2021-06-13
+ACC0146,Sal Account,115,13,Salary Account,active,341682.45,2023-03-21
+ACC0147,Cur Account,90,4,current accounts,suspended,197136.26,2017-12-08
+ACC0148,Fix Account,1,1,fixed deposit accounts,inactive,337076.43,2023-07-18
+ACC0149,Cur Account,98,8,current accounts,inactive,173733.71,2019-04-24
+ACC0150,Sav Account,196,4,savings accounts,inactive,307846.68,2015-04-07
+ACC0151,Sav Account,18,4,savings accounts,inactive,299294.66,2015-04-24
+ACC0152,Sal Account,12,13,Salary Account,active,270340.14,2015-03-17
+ACC0153,Fix Account,75,8,fixed deposit accounts,suspended,299360.92,2020-04-10
+ACC0154,Cur Account,37,17,current accounts,inactive,150949.98,2015-09-19
+ACC0155,Sal Account,189,6,Salary Account,suspended,248314.77,2020-11-22
+ACC0156,Fix Account,98,17,fixed deposit accounts,inactive,204721.33,2019-07-06
+ACC0157,Sal Account,194,18,Salary Account,active,424821.13,2019-12-05
+ACC0158,Sal Account,119,2,Salary Account,inactive,279086.09,2017-07-08
+ACC0159,Fix Account,66,7,fixed deposit accounts,active,461190.83,2020-02-18
+ACC0160,Sav Account,186,7,savings accounts,active,189206.82,2015-02-07
+ACC0161,Cur Account,195,19,current accounts,inactive,105235.66,2020-05-01
+ACC0162,Sav Account,55,7,savings accounts,inactive,457306.21,2018-07-08
+ACC0163,Fix Account,142,11,fixed deposit accounts,inactive,233658.98,2020-05-09
+ACC0164,Sal Account,93,17,Salary Account,inactive,50205.51,2022-06-07
+ACC0165,Sal Account,95,11,Salary Account,active,281699.84,2018-12-05
+ACC0166,Sal Account,5,9,Salary Account,active,77053.29,2020-04-13
+ACC0167,Sal Account,146,8,Salary Account,suspended,327649.38,2020-05-25
+ACC0168,Sal Account,126,16,Salary Account,active,366653.35,2020-03-05
+ACC0169,Sal Account,185,18,Salary Account,active,458532.8,2023-11-02
+ACC0170,Sav Account,135,2,savings accounts,Inactive,382405.08,2021-03-27
+ACC0171,Sav Account,162,8,savings accounts,active,5561.59,2023-08-12
+ACC0172,Sal Account,16,20,Salary Account,inactive,8850.15,2023-09-14
+ACC0173,Fix Account,4,1,fixed deposit accounts,suspended,488762.19,2015-09-27
+ACC0174,Cur Account,179,14,current accounts,active,459106.37,2023-03-08
+ACC0175,Fix Account,50,20,fixed deposit accounts,active,134395.04,2021-02-12
+ACC0176,Cur Account,104,15,current accounts,active,150687.35,2016-11-28
+ACC0177,Sav Account,167,2,savings accounts,inactive,190252.75,2023-08-02
+ACC0178,Cur Account,164,1,current accounts,active,250429.34,2021-11-26
+ACC0179,Sav Account,85,19,savings accounts,suspended,459656.96,2018-04-28
+ACC0180,Sal Account,178,19,Salary Account,active,24234.42,2016-11-09
+ACC0181,Sav Account,140,19,savings accounts,active,464454.41,2020-01-07
+ACC0182,Sal Account,151,5,Salary Account,active,150339.17,2018-10-27
+ACC0183,Fix Account,100,18,fixed deposit accounts,inactive,378049.02,2017-12-24
+ACC0184,Fix Account,21,17,fixed deposit accounts,active,49745.21,2018-02-11
+ACC0185,Sal Account,155,20,Salary Account,active,15783.2,2019-08-16
+ACC0186,Sal Account,59,12,Salary Account,inactive,93683.19,2021-02-25
+ACC0187,Cur Account,159,10,current accounts,active,41936.97,2017-07-23
+ACC0188,Sal Account,163,5,Salary Account,active,180989.41,2016-01-10
+ACC0189,Fix Account,114,12,fixed deposit accounts,active,67121.0,2017-07-15
+ACC0190,Sal Account,143,18,Salary Account,active,14104.69,2020-09-03
+ACC0191,Fix Account,153,20,fixed deposit accounts,inactive,7157.97,2021-07-25
+ACC0192,Cur Account,22,18,current accounts,suspended,261031.16,2021-03-05
+ACC0193,Fix Account,69,10,fixed deposit accounts,inactive,73821.48,2017-07-09
+ACC0194,Sal Account,108,10,Salary Account,active,181201.33,2018-12-21
+ACC0195,Cur Account,127,20,current accounts,inactive,54379.21,2019-01-13
+ACC0196,Sal Account,86,20,Salary Account,active,220671.24,2021-11-20
+ACC0197,Fix Account,35,10,fixed deposit accounts,suspended,473692.18,2018-08-11
+ACC0198,Fix Account,46,13,fixed deposit accounts,active,367702.31,2022-10-26
+ACC0199,Sal Account,63,11,Salary Account,active,408430.76,2021-06-04
+ACC0200,Cur Account,145,7,current accounts,suspended,14431.14,2030-01-01
+ACC0201,Sav Account,113,10,savings accounts,inactive,336815.85,2017-11-10
+ACC0202,Cur Account,62,9,current accounts,inactive,394749.3,2016-08-20
+ACC0203,Sal Account,123,19,Salary Account,suspended,253799.71,2021-09-02
+ACC0204,Sav Account,93,18,savings accounts,active,384708.07,2020-03-21
+ACC0205,Sal Account,157,2,Salary Account,active,482892.67,2021-02-01
+ACC0206,Cur Account,26,9,current accounts,suspended,373679.66,2023-10-23
+ACC0207,Sal Account,148,8,Salary Account,active,196175.95,2023-03-12
+ACC0208,Sav Account,7,16,savings accounts,active,208571.74,2016-02-27
+ACC0209,Fix Account,187,5,fixed deposit accounts,active,172190.27,2018-09-16
+ACC0210,Sav Account,90,16,savings accounts,inactive,361274.98,2022-06-03
+ACC0211,Sav Account,77,2,savings accounts,active,424740.82,2016-11-26
+ACC0212,Cur Account,43,8,current accounts,suspended,80907.72,2023-07-15
+ACC0213,Cur Account,60,13,current accounts,active,320598.96,2021-07-01
+ACC0214,Cur Account,189,20,current accounts,inactive,296509.38,2021-01-23
+ACC0215,Fix Account,55,7,fixed deposit accounts,active,289096.6,2023-03-12
+ACC0216,Sal Account,84,7,Salary Account,active,131914.34,2022-09-21
+ACC0217,Sal Account,81,20,Salary Account,suspended,196879.46,2016-06-12
+ACC0218,Cur Account,118,20,current accounts,active,459422.61,2016-11-05
+ACC0219,Cur Account,81,4,current accounts,active,59357.5,2020-12-05
+ACC0220,Sal Account,131,13,Salary Account,suspended,69795.78,2021-07-06
+ACC0221,Cur Account,125,18,current accounts,suspended,84265.9,2019-03-06
+ACC0222,Sav Account,81,15,savings accounts,active,475969.13,2022-03-07
+ACC0223,Sal Account,99,18,Salary Account,inactive,342663.64,2021-12-27
+ACC0224,Cur Account,114,16,current accounts,active,283133.5,2018-05-02
+ACC0225,Fix Account,71,8,fixed deposit accounts,active,390589.36,2022-09-17
+ACC0226,Sav Account,29,19,savings accounts,active,387781.4,2020-09-27
+ACC0227,Sal Account,194,2,Salary Account,suspended,110052.43,2021-02-24
+ACC0228,Fix Account,168,8,fixed deposit accounts,active,225416.44,2020-02-15
+ACC0229,Cur Account,31,8,current accounts,suspended,344877.66,2021-03-20
+ACC0230,Cur Account,36,7,current accounts,active,285467.1,2023-05-20
+ACC0231,Fix Account,138,6,fixed deposit accounts,active,145377.29,2019-09-22
+ACC0232,Sal Account,25,5,Salary Account,active,496250.63,2017-12-28
+ACC0233,Cur Account,34,8,current accounts,active,414412.42,2021-08-05
+ACC0234,Sal Account,148,9,Salary Account,inactive,226543.87,2016-07-17
+ACC0235,Fix Account,192,9,fixed deposit accounts,inactive,475176.79,2020-10-01
+ACC0236,Sal Account,199,3,Salary Account,active,425203.01,2023-07-07
+ACC0237,Sal Account,110,7,Salary Account,active,162109.71,2019-06-18
+ACC0238,Sal Account,148,5,Salary Account,active,447183.17,2015-01-04
+ACC0239,Sav Account,161,15,savings accounts,active,464787.0,2017-08-15
+ACC0240,Cur Account,1,14,current accounts,active,441191.73,2019-03-28
+ACC0241,Fix Account,71,3,fixed deposit accounts,active,42127.84,2017-01-13
+ACC0242,Cur Account,161,10,current accounts,inactive,328087.13,2016-01-07
+ACC0243,Cur Account,123,3,current accounts,suspended,113869.24,2022-01-01
+ACC0244,Sav Account,179,11,savings accounts,inactive,347321.47,2022-02-08
+ACC0245,Sav Account,99,3,savings accounts,active,157362.39,2019-03-13
+ACC0246,Cur Account,199,5,current accounts,active,265723.63,2015-10-21
+ACC0247,Fix Account,43,15,fixed deposit accounts,active,314411.94,2017-07-20
+ACC0248,Cur Account,176,15,current accounts,active,448399.88,2017-02-19
+ACC0249,Fix Account,187,13,fixed deposit accounts,inactive,157937.33,2017-04-09
+ACC0250,Cur Account,166,3,current accounts,suspended,300898.53,2019-12-01
+ACC0251,Fix Account,34,1,fixed deposit accounts,active,294837.61,2015-03-09
+ACC0252,Sal Account,14,5,Salary Account,suspended,57711.0,2016-08-15
+ACC0253,Sav Account,200,12,savings accounts,inactive,252415.51,2015-12-26
+ACC0254,Fix Account,169,17,fixed deposit accounts,inactive,322027.0,2015-01-16
+ACC0255,Sav Account,103,14,savings accounts,inactive,356488.26,2022-02-03

@@ -1,0 +1,23 @@
+branch_ID,branch_name,city,location
+1,Nairobi Branch,Nairobi,Kenyatta Avenue
+2,nairobi branch,Nairobi,Westlands
+3,Mombasa Branch,Mombasa,Moi Avenue
+4,Mombasa Branch,Mombasa,Nyali
+5,Kisumu Branch,Kisumu,Oginga Odinga Street
+6,Kisumu Branch,Kisumu,Kondele
+7,Nakuru Branch,Nakuru,Kenyatta Avenue
+8,Nakuru Branch,Nakuru,Section 58
+9,Eldoret Branch,Eldoret,Uganda Road
+10,Eldoret Branch,Eldoret,Town Centre
+11,Thika Branch,Thika,Commercial Street
+12,Thika Branch,Thika,Blue Post
+13,Nyeri Branch,Nyeri,Kimathi Way
+14,Nyeri Branch,Nyeri,Ruring'u
+15,Machakos Branch,Machakos,Uhuru Street
+16,Machakos Branch,Machakos,Athi River
+17,Kisii Branch,Kisii,Hospital Road
+18,Kisii Branch,Kisii,Daraja Mbili
+19,Meru Branch,Meru,Moi Avenue
+20,Meru Branch,Meru,Nkubu
+1001,Nairobi Branch,Nairobi,Kenyatta Avenue
+1005,Mombasa Branch,Mombasa,Nyali
